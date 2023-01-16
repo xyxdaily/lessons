@@ -1,0 +1,3 @@
+RegisterNativeMethod_addr= 0xeabec65d
+go into RegisterNativeMethod ---artmethodptr:0xe1b9486c---methodidx:9--addr:0xd88255f5----name:void android.util.StatsLog.writeImpl(byte[], int, int)---modulename:libstats_jni.so---offset:0x15f5
+go into RegisterNativeMethod ---artmethodptr:0xd864fdcc---methodidx:1--addr:0xd8119075----name:void com.wolf.n.NI.greywolf(android.content.Context, java.lang.String)---modulename:libwolf.so---offset:0x14075

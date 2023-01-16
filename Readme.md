@@ -9,3 +9,7 @@
 ### [（视频）反调试入门第六课lsposed编译与简单魔改（下）](https://mp.weixin.qq.com/s/TrjHPhQIniCVBVCCBRZp2Q)
 
 ### [（视频）番外篇之java混淆函数的hook处理](https://mp.weixin.qq.com/s/OjKT0VOEMIbfNNYo99hmmw)
+
+## 2023安卓逆向CTF系列视频
+### [2023安卓逆向CTF系列视频（一）（上）](https://www.bilibili.com/video/BV1zK411r79R/)
+课件在相应的文件夹
