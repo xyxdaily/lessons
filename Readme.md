@@ -1,6 +1,8 @@
 ## 微信公众号：面向小白的逆向笔记
 个人微信：lovexyx2020
 
+## [github地址](https://github.com/xyxdaily/lessons)
+
 ## [安卓反调试入门&检测](https://mp.weixin.qq.com/s/qWyAhZbakUPH0Ys_SbLR4w)
 
 ### [（视频）反调试入门第一课第一节上](https://mp.weixin.qq.com/s/s2Emtv29pFcHf9qTF6Zxgw)
@@ -13,3 +15,11 @@
 ## 2023安卓逆向CTF系列视频
 ### [2023安卓逆向CTF系列视频（一）（上）](https://www.bilibili.com/video/BV1zK411r79R/)
 课件在相应的文件夹
+
+### [2023安卓逆向CTF系列视频（一）（下）](https://www.bilibili.com/video/BV1nv4y1C7AP/)
+
+### [2023安卓逆向CTF系列视频（二概述）](https://www.bilibili.com/video/BV1rx4y1u7sN/)
+
+### [2023安卓逆向CTF系列视频（二(1)frida inlinehook）](https://www.bilibili.com/video/BV1QY411Q7u2/?vd_source=bfef8a2e393607dd728fd7daaea005cf)
+
+### [2023安卓逆向CTF系列视频（二(2)ida attach分析）]
