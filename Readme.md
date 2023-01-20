@@ -22,4 +22,4 @@
 
 ### [2023安卓逆向CTF系列视频（二(1)frida inlinehook）](https://www.bilibili.com/video/BV1QY411Q7u2/?vd_source=bfef8a2e393607dd728fd7daaea005cf)
 
-### [2023安卓逆向CTF系列视频（二(2)ida attach分析）]
+### [2023安卓逆向CTF系列视频（二(2)ida attach分析）](https://www.bilibili.com/video/BV1Gx4y1g7EQ/)
