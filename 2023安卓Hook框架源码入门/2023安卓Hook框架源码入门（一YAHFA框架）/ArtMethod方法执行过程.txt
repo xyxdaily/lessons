@@ -1,0 +1,21 @@
+=>http://androidxref.com/8.1.0_r33/xref/art/runtime/jni_internal.cc#1728 CallStaticVoidMethodV
+=>http://androidxref.com/8.1.0_r33/xref/art/runtime/reflection.cc#457 InvokeWithVarArgs
+=>http://androidxref.com/8.1.0_r33/xref/art/runtime/reflection.cc#446 InvokeWithArgArray
+=>http://androidxref.com/8.1.0_r33/xref/art/runtime/art_method.cc#311 
+=>http://androidxref.com/8.1.0_r33/xref/art/runtime/arch/arm/quick_entrypoints_cc_arm.cc#104
+=>http://androidxref.com/8.1.0_r33/xref/art/runtime/arch/arm/quick_entrypoints_arm.S#548 
+ldr    ip, [r0, #ART_METHOD_QUICK_CODE_OFFSET_32]  @ get pointer to the code
+=>http://androidxref.com/8.1.0_r33/xref/art/runtime/generated/asm_support_gen.h#67
+
+
+=>http://androidxref.com/8.1.0_r33/xref/art/runtime/class_linker.cc#3172 LinkCode
+=>http://androidxref.com/8.1.0_r33/xref/art/runtime/entrypoints/runtime_asm_entrypoints.h#41
+=>http://androidxref.com/8.1.0_r33/xref/art/runtime/arch/arm64/quick_entrypoints_arm64.S#2301 
+=>http://androidxref.com/8.1.0_r33/xref/art/runtime/entrypoints/quick/quick_trampoline_entrypoints.cc#700 
+=>http://androidxref.com/8.1.0_r33/xref/art/runtime/interpreter/interpreter.cc#586
+=>http://androidxref.com/8.1.0_r33/xref/art/runtime/interpreter/interpreter_switch_impl.cc#154
+=>http://androidxref.com/8.1.0_r33/xref/art/runtime/interpreter/interpreter_common.h#163 DoInvoke
+=>http://androidxref.com/8.1.0_r33/xref/art/runtime/interpreter/interpreter_common.cc#1140
+=>http://androidxref.com/8.1.0_r33/xref/art/runtime/common_dex_operations.h#44
+=>http://androidxref.com/8.1.0_r33/xref/art/runtime/interpreter/interpreter.cc#602
+=>http://androidxref.com/8.1.0_r33/xref/art/runtime/interpreter/interpreter_common.cc#475 ArtInterpreterToCompiledCodeBridge
