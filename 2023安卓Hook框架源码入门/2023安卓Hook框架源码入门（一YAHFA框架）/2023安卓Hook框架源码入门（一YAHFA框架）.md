@@ -27,3 +27,5 @@
 6. [一种通用超简单的Android Java Native方法Hook](https://sanfengandroid.github.io/2021/02/28/simple-java-native-hook/)
 7. [Android热修复升级探索——追寻极致的代码热替换](https://developer.aliyun.com/article/74598)
 8. [深入理解Android虚拟机及编译系统](https://shusheng007.top/2021/09/09/002-2/)
+9. [脱了马甲我也认识你: 聊聊 Android 中类的真实形态](https://github.com/5A59/android-training/blob/master/jvm-art/ART%E4%B8%AD%E7%B1%BB%E7%9A%84%E7%9C%9F%E5%AE%9E%E5%BD%A2%E6%80%81.md)
+10. [Android运行时ART执行类方法的过程分析](https://blog.csdn.net/Luoshengyang/article/details/40289405)

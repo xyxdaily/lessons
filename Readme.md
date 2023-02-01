@@ -24,6 +24,16 @@
 
 ### [2023安卓逆向CTF系列视频（二(2)ida attach分析）](https://www.bilibili.com/video/BV1Gx4y1g7EQ/)
 
+### [2023安卓逆向CTF系列视频（三）](https://www.bilibili.com/video/BV17M411B7ef/)
+
 ## 2023安卓Hook框架源码入门
 
 ### [2023安卓Hook框架源码入门（一YAHFA框架）（1概述）](https://www.bilibili.com/video/BV1TY4y1f7rw/)
+
+### [2023安卓Hook框架源码入门（一YAHFA框架）（2使用）](https://www.bilibili.com/video/BV1Dx4y1M76f)
+
+### [2023安卓Hook框架源码入门（一YAHFA框架）（3ArtMethod）](https://www.bilibili.com/video/BV17T411y7AE/)
+
+### [2023安卓Hook框架源码入门（一YAHFA框架）（4ArtMethod执行流）](https://www.bilibili.com/video/BV1N84y177nF)
+
+### [2023安卓Hook框架源码入门（一YAHFA框架）（5源码介绍）](https://www.bilibili.com/video/BV1kY411Q7H8/)
