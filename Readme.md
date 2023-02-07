@@ -26,6 +26,12 @@
 
 ### [2023安卓逆向CTF系列视频（三）](https://www.bilibili.com/video/BV17M411B7ef/)
 
+### [2023安卓逆向CTF系列视频（四概述暴力破解）](https://www.bilibili.com/video/BV1vM411i73B/)
+
+### [2023安卓逆向CTF系列视频（四）（一Frida暴力破解）](https://www.bilibili.com/video/BV1Zy4y1Q7Mm/)
+
+### [2023安卓逆向CTF系列视频（四）（一Frida之RPC）](https://www.bilibili.com/video/BV19M4y1Q7E9/)
+
 ## 2023安卓Hook框架源码入门
 
 ### [2023安卓Hook框架源码入门（一YAHFA框架）（1概述）](https://www.bilibili.com/video/BV1TY4y1f7rw/)
@@ -37,3 +43,9 @@
 ### [2023安卓Hook框架源码入门（一YAHFA框架）（4ArtMethod执行流）](https://www.bilibili.com/video/BV1N84y177nF)
 
 ### [2023安卓Hook框架源码入门（一YAHFA框架）（5源码介绍）](https://www.bilibili.com/video/BV1kY411Q7H8/)
+
+### [2023安卓Hook框架源码入门（一YAHFA框架）（6简单对抗）](https://www.bilibili.com/video/BV1fs4y1p7wW/)
+
+## 2023安卓逆向工具篇
+
+### [2023安卓逆向工具篇（Windows下python虚拟环境）（Frida多版本安装）](https://www.bilibili.com/video/BV1nM4y1X746/)
