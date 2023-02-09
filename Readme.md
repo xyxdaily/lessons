@@ -46,6 +46,9 @@
 
 ### [2023安卓Hook框架源码入门（一YAHFA框架）（6简单对抗）](https://www.bilibili.com/video/BV1fs4y1p7wW/)
 
+### [2023安卓Hook框架源码入门（番外篇之dlopen限制与反射限制）](https://www.bilibili.com/video/BV1NM411Y7V1/)
+
 ## 2023安卓逆向工具篇
 
 ### [2023安卓逆向工具篇（Windows下python虚拟环境）（Frida多版本安装）](https://www.bilibili.com/video/BV1nM4y1X746/)
+
